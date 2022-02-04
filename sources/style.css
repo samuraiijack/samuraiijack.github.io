@@ -447,7 +447,9 @@ max degerden donuyor. */
         width: 100%;
         height: auto;
         background-color: #01375A;
-    
+    }
+    .map {
+        min-height: 550px;
     }
 }
 /* Footer */
